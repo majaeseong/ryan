@@ -5,8 +5,8 @@
 }
 .ryan_head {
   background-color: #dc9935;
-  height: 243px;
-  width: 266px;
+  height: 210px;
+  width: 235px;
   border-radius: 50%;
   border: 5px solid black;
   position: relative;
@@ -27,44 +27,44 @@
   top: -2px;
 }
 .ear1 {
-  left: 34px;
+  left: 31px;
 }
 .ear2 {
-  left: 179px;
+  left: 152px;
 }
 
 .eyebrow1,
 .eyebrow2 {
-  width: 50px;
+  width: 54px;
   height: 10px;
   border: 5px solid black;
   border-radius: 5px;
   position: absolute;
-  top: 90px;
+  top: 67px;
   z-index: 40;
 }
 .eyebrow1 {
-  left: 48px;
+  left: 36px;
 }
 .eyebrow2 {
-  left: 163px;
+  left: 150px;
 }
 
 .eye1,
 .eye2 {
-  width: 15px;
-  height: 15px;
+  width: 16px;
+  height: 16px;
   border-radius: 50%;
   background-color: black;
   position: absolute;
-  top: 115px;
+  top: 90px;
   z-index: 40;
 }
 .eye1 {
-  left: 66px;
+  left: 59px;
 }
 .eye2 {
-  left: 181px;
+  left: 166px;
 }
 
 .nose {
@@ -73,8 +73,8 @@
   border-radius: 50%;
   background-color: black;
   position: absolute;
-  top: 143px;
-  left: 122px;
+  top: 120px;
+  left: 112px;
   z-index: 50;
 }
 
@@ -86,21 +86,21 @@
   border: 5px solid black;
   background-color: white;
   position: absolute;
-  top: 146px;
+  top: 120px;
   z-index: 40;
 }
 .mouse1 {
-  left: 97px;
+  left: 88px;
 }
 .mouse2 {
-  left: 128px;
+  left: 119px;
 }
 .mouse_cover {
   width: 14px;
   height: 11px;
   background-color: white;
   position: absolute;
-  top: 158px;
+  top: 130px;
   z-index: 40;
-  left: 123px;
+  left: 113px;
 }
