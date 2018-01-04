@@ -1,0 +1,106 @@
+.ryan {
+  position: relative;
+  top: 50px;
+  left: 80px;
+}
+.ryan_head {
+  background-color: #dc9935;
+  height: 243px;
+  width: 266px;
+  border-radius: 50%;
+  border: 5px solid black;
+  position: relative;
+  z-index: 30;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ear1,
+.ear2 {
+  background-color: #dc9935;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 5px solid black;
+  z-index: 10;
+  position: absolute;
+  top: -2px;
+}
+.ear1 {
+  left: 34px;
+}
+.ear2 {
+  left: 179px;
+}
+
+.eyebrow1,
+.eyebrow2 {
+  width: 50px;
+  height: 10px;
+  border: 5px solid black;
+  border-radius: 5px;
+  position: absolute;
+  top: 90px;
+  z-index: 40;
+}
+.eyebrow1 {
+  left: 48px;
+}
+.eyebrow2 {
+  left: 163px;
+}
+
+.eye1,
+.eye2 {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: black;
+  position: absolute;
+  top: 115px;
+  z-index: 40;
+}
+.eye1 {
+  left: 66px;
+}
+.eye2 {
+  left: 181px;
+}
+
+.nose {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background-color: black;
+  position: absolute;
+  top: 143px;
+  left: 122px;
+  z-index: 50;
+}
+
+.mouse1,
+.mouse2 {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 5px solid black;
+  background-color: white;
+  position: absolute;
+  top: 146px;
+  z-index: 40;
+}
+.mouse1 {
+  left: 97px;
+}
+.mouse2 {
+  left: 128px;
+}
+.mouse_cover {
+  width: 14px;
+  height: 11px;
+  background-color: white;
+  position: absolute;
+  top: 158px;
+  z-index: 40;
+  left: 123px;
+}
