@@ -114,7 +114,7 @@
   z-index: 40;
   position: absolute;
   top: 126px;
-  animation: 2s brush_effect infinite ease-in-out;
+  animation: 2.5s brush_effect infinite ease-in-out;
 }
 .brush1 {
   left: 23px;
